@@ -27,7 +27,7 @@
                     
                  <p>  In April 2015, he won the 50th Anniversary Milestone Award at the 50th Academy of Country Music Awards. In 2017, she released her music album Reputation, which sold 1.238,000 copies in its first week in the US, making her the singer who has four albums selling one million copies in its first week. In the same year, he was chosen by Time magazine as Person of the Year. In 2019, the music album "Lover" was released; In the same year, the International Federation of the Phonographic Industry (IFPI) declared the album the "annual global album sales number one". In 2020, the music albums Folklore and Evermore were released.</p>
                 
-      <img src="u=https://github.com/YuMinmin12345/yuminmin2.io/blob/main/WechatIMG4e53b8a3807a870562cb3909eabdbbe7.jpegjpg">       <img
+      <img src="img/1.jpeg">       <img
     src="ac6eddc451da81cb39dbbf88e52cc7160924ab189b16.jpeg">
                 
 <a href="journal%20(2).html">Look at next page</a >
